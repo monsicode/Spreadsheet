@@ -1,0 +1,4 @@
+"hjvf", 12, "bla"
+14, 3.14, "124jno", 2.98, "gerh"
+"rgergerg", 1234, 1.7
+57,"Hello"

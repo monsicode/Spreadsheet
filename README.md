@@ -15,3 +15,7 @@
 
 
 ![image](https://github.com/monsicode/Spreadsheet/assets/96687353/2bf2c03d-5e8d-4cef-8049-45ff8f625ad2)
+
+може да се представи по следните начини (възможни са и други представяния):
+
+![image](https://github.com/monsicode/Spreadsheet/assets/96687353/837b9024-de92-483b-a642-4e078ddfc51e)
